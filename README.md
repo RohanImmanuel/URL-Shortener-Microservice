@@ -6,6 +6,8 @@
 ## Example creation usage:
 `https://shurli.herokuapp.com/new/https://www.google.com`
 `https://shurli.herokuapp.com/new/http://freecodecamp.com/news`
+
+
 If you want to pass a site that doesn't exist (or an invalid url) for some reason you can do:
 `https://shurli.herokuapp.com/new/invalid?allow=true`
 ## Example creation output:
